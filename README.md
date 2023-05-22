@@ -7,8 +7,8 @@ It scrapes quotes from http://quotes.toscrape.com, a website designed for scrapi
 
 This project requires Python 3.6+ and the following Python libraries installed:
 
-*Beautiful Soup
-*requests
+* Beautiful Soup
+* requests
 
 To run the project, you will also need to have software installed to run and execute a Python script.
 
