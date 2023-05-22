@@ -18,7 +18,9 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 In a terminal or command window, navigate to the top-level project directory web-scraper/ (that contains this README) and run the following command:
 
+'''
 $python app.py
+'''
 
 ## Project Details
 
